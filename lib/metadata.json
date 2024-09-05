@@ -1,6 +1,6 @@
 {
-  "vaultName": "Teaching campaign",
-  "lastExport": 1725560350749,
+  "vaultName": "Dream Team",
+  "lastExport": 1725561416342,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon check-color check-bg embed-clean accent-color",
   "useCustomHeadContent": false,
@@ -8,22 +8,34 @@
   "files": [
     "Images/Creatures/Elwing.jpg",
     "Images/Creatures/elwing profile.png",
+    "Images/Creatures/elwing-profile.png",
     "Images/Creatures/friend profile.png",
+    "Images/Creatures/friend-profile.png",
     "Images/Creatures/Gerda.png",
     "Images/Creatures/gerda profile.png",
+    "Images/Creatures/gerda-profile.png",
     "Images/Creatures/height comparison.png",
+    "Images/Creatures/height-comparison.png",
     "Images/Creatures/I. Friend.png",
+    "Images/Creatures/i.-friend.png",
     "Images/Creatures/IMG_1761.png",
     "Images/Creatures/IMG_1761.jpg",
     "Images/Creatures/penelope profile.png",
     "Images/Creatures/Penelope Tillnot.png",
+    "Images/Creatures/penelope-profile.png",
+    "Images/Creatures/penelope-tillnot.png",
     "Images/Creatures/Subject.jpg",
     "Images/Creatures/Subject 2.jpg",
     "Images/Creatures/Subject 3.jpg",
+    "Images/Creatures/subject-2.jpg",
+    "Images/Creatures/subject-3.jpg",
     "Images/color palette.png",
+    "Images/color-palette.png",
     "Images/Friend's well.jpg",
+    "Images/friend's-well.jpg",
     "Images/Gibberling_5e.jpg",
     "Images/twin trees.PNG",
+    "Images/twin-trees.png",
     "Locations/Rakāuvi.md",
     "Player Characters/Elwing.md",
     "Player Characters/Friend.md",
@@ -100,121 +112,193 @@
   ],
   "fileInfo": {
     "Images/Creatures/Elwing.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 78925,
       "exportedPath": "images/creatures/elwing.jpg",
       "dependencies": []
     },
     "Images/Creatures/elwing profile.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 1576017,
+      "exportedPath": "images/creatures/elwing-profile.png",
+      "dependencies": []
+    },
+    "Images/Creatures/elwing-profile.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 1576017,
       "exportedPath": "images/creatures/elwing-profile.png",
       "dependencies": []
     },
     "Images/Creatures/friend profile.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 2417223,
+      "exportedPath": "images/creatures/friend-profile.png",
+      "dependencies": []
+    },
+    "Images/Creatures/friend-profile.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 2417223,
       "exportedPath": "images/creatures/friend-profile.png",
       "dependencies": []
     },
     "Images/Creatures/Gerda.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1385201,
       "exportedPath": "images/creatures/gerda.png",
       "dependencies": []
     },
     "Images/Creatures/gerda profile.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 1308917,
+      "exportedPath": "images/creatures/gerda-profile.png",
+      "dependencies": []
+    },
+    "Images/Creatures/gerda-profile.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 1308917,
       "exportedPath": "images/creatures/gerda-profile.png",
       "dependencies": []
     },
     "Images/Creatures/height comparison.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 685439,
+      "exportedPath": "images/creatures/height-comparison.png",
+      "dependencies": []
+    },
+    "Images/Creatures/height-comparison.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 685439,
       "exportedPath": "images/creatures/height-comparison.png",
       "dependencies": []
     },
     "Images/Creatures/I. Friend.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 2198600,
+      "exportedPath": "images/creatures/i.-friend.png",
+      "dependencies": []
+    },
+    "Images/Creatures/i.-friend.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 2198600,
       "exportedPath": "images/creatures/i.-friend.png",
       "dependencies": []
     },
     "Images/Creatures/IMG_1761.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1057538,
       "exportedPath": "images/creatures/img_1761.png",
       "dependencies": []
     },
     "Images/Creatures/IMG_1761.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 139786,
       "exportedPath": "images/creatures/img_1761.jpg",
       "dependencies": []
     },
     "Images/Creatures/penelope profile.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1724690,
       "exportedPath": "images/creatures/penelope-profile.png",
       "dependencies": []
     },
     "Images/Creatures/Penelope Tillnot.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 1119013,
+      "exportedPath": "images/creatures/penelope-tillnot.png",
+      "dependencies": []
+    },
+    "Images/Creatures/penelope-profile.png": {
+      "modifiedTime": 1725561416342,
+      "sourceSize": 1724690,
+      "exportedPath": "images/creatures/penelope-profile.png",
+      "dependencies": []
+    },
+    "Images/Creatures/penelope-tillnot.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 1119013,
       "exportedPath": "images/creatures/penelope-tillnot.png",
       "dependencies": []
     },
     "Images/Creatures/Subject.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 172725,
       "exportedPath": "images/creatures/subject.jpg",
       "dependencies": []
     },
     "Images/Creatures/Subject 2.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 360570,
       "exportedPath": "images/creatures/subject-2.jpg",
       "dependencies": []
     },
     "Images/Creatures/Subject 3.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 198914,
+      "exportedPath": "images/creatures/subject-3.jpg",
+      "dependencies": []
+    },
+    "Images/Creatures/subject-2.jpg": {
+      "modifiedTime": 1725561416342,
+      "sourceSize": 360570,
+      "exportedPath": "images/creatures/subject-2.jpg",
+      "dependencies": []
+    },
+    "Images/Creatures/subject-3.jpg": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 198914,
       "exportedPath": "images/creatures/subject-3.jpg",
       "dependencies": []
     },
     "Images/color palette.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 113382,
+      "exportedPath": "images/color-palette.png",
+      "dependencies": []
+    },
+    "Images/color-palette.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 113382,
       "exportedPath": "images/color-palette.png",
       "dependencies": []
     },
     "Images/Friend's well.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 946740,
+      "exportedPath": "images/friend's-well.jpg",
+      "dependencies": []
+    },
+    "Images/friend's-well.jpg": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 946740,
       "exportedPath": "images/friend's-well.jpg",
       "dependencies": []
     },
     "Images/Gibberling_5e.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 131310,
       "exportedPath": "images/gibberling_5e.jpg",
       "dependencies": []
     },
     "Images/twin trees.PNG": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
+      "sourceSize": 882784,
+      "exportedPath": "images/twin-trees.png",
+      "dependencies": []
+    },
+    "Images/twin-trees.png": {
+      "modifiedTime": 1725561416342,
       "sourceSize": 882784,
       "exportedPath": "images/twin-trees.png",
       "dependencies": []
     },
     "Locations/Rakāuvi.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1065,
       "exportedPath": "locations/rakāuvi.html",
       "dependencies": []
     },
     "Player Characters/Elwing.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1890,
       "exportedPath": "player-characters/elwing.html",
       "dependencies": [
@@ -222,7 +306,7 @@
       ]
     },
     "Player Characters/Friend.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1571,
       "exportedPath": "player-characters/friend.html",
       "dependencies": [
@@ -230,7 +314,7 @@
       ]
     },
     "Player Characters/Gerda.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1846,
       "exportedPath": "player-characters/gerda.html",
       "dependencies": [
@@ -238,7 +322,7 @@
       ]
     },
     "Player Characters/Penelope Tillnot.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1785,
       "exportedPath": "player-characters/penelope-tillnot.html",
       "dependencies": [
@@ -246,36 +330,36 @@
       ]
     },
     "Terms and Phrases/Days of the week.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 173,
       "exportedPath": "terms-and-phrases/days-of-the-week.html",
       "dependencies": []
     },
     "Terms and Phrases/Month names.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 217,
       "exportedPath": "terms-and-phrases/month-names.html",
       "dependencies": []
     },
     "Terms and Phrases/Races & Lifespans of most races.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 579,
       "exportedPath": "terms-and-phrases/races-&-lifespans-of-most-races.html",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1732,
       "exportedPath": "index.html",
       "dependencies": [
-        "images/creatures/elwing.jpg",
+        "lib/media/elwing.jpg",
         "images/creatures/i.-friend.png",
-        "images/creatures/gerda.png",
+        "lib/media/gerda.png",
         "images/creatures/penelope-tillnot.png"
       ]
     },
     "Session 1.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 6528,
       "exportedPath": "session-1.html",
       "dependencies": [
@@ -285,241 +369,229 @@
       ]
     },
     "Terms and Phrases.md": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 135,
       "exportedPath": "terms-and-phrases.html",
       "dependencies": []
     },
     "lib/media/elwing.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 78925,
       "exportedPath": "lib/media/elwing.jpg",
       "dependencies": []
     },
     "lib/media/i.-friend.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 2198600,
       "exportedPath": "lib/media/i.-friend.png",
       "dependencies": []
     },
     "lib/media/gerda.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1385201,
       "exportedPath": "lib/media/gerda.png",
       "dependencies": []
     },
     "lib/media/penelope-tillnot.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1119013,
       "exportedPath": "lib/media/penelope-tillnot.png",
       "dependencies": []
     },
-    "images/creatures/elwing.jpg": {
-      "modifiedTime": 1725560350749,
-      "sourceSize": 78925,
-      "exportedPath": "images/creatures/elwing.jpg",
-      "dependencies": []
-    },
     "images/creatures/i.-friend.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 2198600,
       "exportedPath": "images/creatures/i.-friend.png",
       "dependencies": []
     },
-    "images/creatures/gerda.png": {
-      "modifiedTime": 1725560350749,
-      "sourceSize": 1385201,
-      "exportedPath": "images/creatures/gerda.png",
-      "dependencies": []
-    },
     "images/creatures/penelope-tillnot.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1119013,
       "exportedPath": "images/creatures/penelope-tillnot.png",
       "dependencies": []
     },
     "images/twin-trees.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 882784,
       "exportedPath": "images/twin-trees.png",
       "dependencies": []
     },
     "images/friend's-well.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 946740,
       "exportedPath": "images/friend's-well.jpg",
       "dependencies": []
     },
     "images/gibberling_5e.jpg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 131310,
       "exportedPath": "images/gibberling_5e.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 828,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 711584,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725560350749,
+      "modifiedTime": 1725561416342,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
